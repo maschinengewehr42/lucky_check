@@ -1,0 +1,6 @@
+CREATE TABLE "lucky" (
+	"ID"	INTEGER PRIMARY KEY AUTOINCREMENT,
+	"lucky1"	TEXT,
+	"lucky2"	TEXT,
+	"num"	TEXT
+)
